@@ -19,7 +19,7 @@ def uniqueCharacterFinder(text):
     return uniqueChar
 
 # Example usage
-print(uniqueCharacterFinder("alii"))  # Output: {'a', 'i'}
+print(uniqueCharacterFinder("alii"))  # Output: {'a', 'l'}
 
 ```
 
